@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="85bb5791-8575-41e8-9c9e-02b0e4d74dfe" name="Changes" comment="Atualização com package" />
+    <list default="true" id="85bb5791-8575-41e8-9c9e-02b0e4d74dfe" name="Changes" comment="teste de novas implementacoes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "iggonicollas"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/iggonicollas/desafio-poo-dio",
@@ -28,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -56,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721417153924</updated>
-      <workItem from="1721417154945" duration="311000" />
+      <workItem from="1721417154945" duration="1393000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização com package">
       <option name="closed" value="true" />
@@ -74,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721417410583</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Atualização com package">
+      <option name="closed" value="true" />
+      <created>1721417500338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721417500338</updated>
+    </task>
+    <task id="LOCAL-00004" summary="teste de novas implementacoes">
+      <option name="closed" value="true" />
+      <created>1721418376828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721418376828</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualização com package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização com package" />
+    <MESSAGE value="teste de novas implementacoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste de novas implementacoes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
